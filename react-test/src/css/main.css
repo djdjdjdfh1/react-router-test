@@ -1,0 +1,18 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+.nav {
+    font-size: 1.3rem;
+}
+.nav a {
+    padding: 0 20px;
+}
+.storylist a {
+    padding : 0 20px;
+}
+
+.bold {
+    font-weight: bold;
+    color: green;
+}
